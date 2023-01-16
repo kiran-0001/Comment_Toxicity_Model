@@ -1,5 +1,4 @@
 # Comment Toxicity Model With Natural Language Processing and Tokenization
-#### Inspired By Nicholas Renotte with optimizations and additions for my experimentation
 ## Research Background
 > Comment toxicity is a major issue in online communication, as toxic comments can lead to a negative user experience and can contribute to the spread of hate speech. Deep learning models have been applied to the task of detecting toxicity in comments, using techniques such as natural language processing and machine learning.
 
@@ -26,3 +25,4 @@
 ***
 
 ## **FULL DOCUMENTATION AND CONSTRUCTION IN MODEL FILE(.ipynb)**
+#### Inspired By Nicholas Renotte with optimizations and additions for my experimentation

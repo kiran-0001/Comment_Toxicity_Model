@@ -1,6 +1,5 @@
 # Comment Toxicity Model With Natural Language Processing and Tokenization
-***
-## Towards Developing "PureSpeak". A tool to faciliate healthy online discourse and safety.
+#### Towards Developing "PureSpeak". A tool to faciliate healthy online discourse and safety.
 ***
 
 ## Research Background

@@ -1,4 +1,8 @@
 # Comment Toxicity Model With Natural Language Processing and Tokenization
+***
+## Towards Developing "PureSpeak". A tool to faciliate healthy online discourse and safety.
+***
+
 ## Research Background
 > Comment toxicity is a major issue in online communication, as toxic comments can lead to a negative user experience and can contribute to the spread of hate speech. Deep learning models have been applied to the task of detecting toxicity in comments, using techniques such as natural language processing and machine learning.
 
